@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-41d38a90","path":"/advance/transition-animations.html","title":"自定义过渡动画","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1695308866000,"contributors":[{"name":"zhangyuge","email":"398698424@qq.com","commits":1}]},"filePathRelative":"advance/transition-animations.md"}');export{a as data};

@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as n,a as e,b as o}from"./app-4ab994db.js";const s={},r=e("h1",{id:"自定义过渡动画",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#自定义过渡动画","aria-hidden":"true"},"#"),o(" 自定义过渡动画")],-1),c=[r];function i(_,d){return a(),n("div",null,c)}const l=t(s,[["render",i],["__file","transition-animations.html.vue"]]);export{l as default};

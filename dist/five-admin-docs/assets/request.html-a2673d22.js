@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-622ec696","path":"/guide/request.html","title":"请求","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1695639814000,"contributors":[{"name":"zhangyuge","email":"398698424@qq.com","commits":3}]},"filePathRelative":"guide/request.md"}');export{e as data};

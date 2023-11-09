@@ -1,0 +1,1 @@
+import{_ as t,o as n,c as a,a as e,b as c}from"./app-4ab994db.js";const o={},s=e("h1",{id:"newbie",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#newbie","aria-hidden":"true"},"#"),c(" Newbie")],-1),r=e("p",null,"开发中……",-1),_=[s,r];function i(d,l){return n(),a("div",null,_)}const f=t(o,[["render",i],["__file","index.html.vue"]]);export{f as default};
