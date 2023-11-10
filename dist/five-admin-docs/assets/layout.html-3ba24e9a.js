@@ -1,1 +1,0 @@
-import{_ as t,o as a,c as o,a as e,b as c}from"./app-4ab994db.js";const r={},s=e("h1",{id:"自定义layout布局",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#自定义layout布局","aria-hidden":"true"},"#"),c(" 自定义Layout布局")],-1),n=[s];function _(l,d){return a(),o("div",null,n)}const u=t(r,[["render",_],["__file","layout.html.vue"]]);export{u as default};
