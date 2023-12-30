@@ -1,1 +1,0 @@
-import{_ as e,o as s,n as t}from"./index-8762fbc7.js";const _={},o={class:"demo-permission-test-page"};function a(c,n){return s(),t("div",o," test角色可见 ")}const d=e(_,[["render",a],["__scopeId","data-v-a1e02b71"]]);export{d as default};
