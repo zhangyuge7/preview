@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e1fdfc74","path":"/other/disclaimer.html","title":"免责声明","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1703929777000,"contributors":[{"name":"zhangyuge","email":"398698424@qq.com","commits":1}]},"filePathRelative":"other/disclaimer.md"}');export{e as data};
