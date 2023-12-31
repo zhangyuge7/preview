@@ -1,0 +1,1 @@
+import{_ as e,o as c,n}from"./index-J9Xxv2oc.js";const o={},s={class:"demo-permission-admin-page"};function a(t,r){return c(),n("div",s," admin角色可见 ")}const d=e(o,[["render",a],["__scopeId","data-v-c426cc2b"]]);export{d as default};
