@@ -1,1 +1,0 @@
-import{y as a,r as l,o as s,n as u,b as r,a as p}from"./index-J9Xxv2oc.js";const m=p("p",null,"此页面移除后不被缓存",-1),i={__name:"NotPageKeep",setup(_){const e=a(0);return(c,o)=>{const n=l("el-input-number");return s(),u("div",null,[m,r(n,{modelValue:e.value,"onUpdate:modelValue":o[0]||(o[0]=t=>e.value=t)},null,8,["modelValue"])])}}};export{i as default};
