@@ -1,1 +1,0 @@
-import{_ as t,o,c,a as e}from"./app-d813bc76.js";const n="/preview/five-admin-v2-docs/footer.png",s={},_=e("p",null,[e("img",{src:n,alt:""})],-1),r=[_];function a(i,l){return o(),c("div",null,r)}const f=t(s,[["render",a],["__file","index.html.vue"]]);export{f as default};
