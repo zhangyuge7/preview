@@ -1,1 +1,0 @@
-import t from"./Mitt1-64a66f7e.js";import r from"./Mitt2-4e66d5d5.js";import{c as a,d as o,f as c,j as e}from"./index-c3c82461.js";const p={__name:"index",setup(m){return(_,n)=>(a(),o("div",null,[c(" 这是父组件，演示 两个子组件使用 mitt 全局事件总线实现组件通信 "),e(t),e(r)]))}};export{p as default};
