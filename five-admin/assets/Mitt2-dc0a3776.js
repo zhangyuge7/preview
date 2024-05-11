@@ -1,1 +1,0 @@
-import{O as t,o,y as n,a as s,c as u,d as c,f as r,e as l,z as p}from"./index-51681171.js";const i={__name:"Mitt2",setup(_){const e=t(0);return o(()=>{n.on("onCountChange",a=>{e.value=a})}),s(()=>{n.off("onCountChange")}),(a,d)=>(u(),c("div",null,[r(" 这是子组件2，监听数据 "),l("span",null,p(e.value),1)]))}};export{i as default};
